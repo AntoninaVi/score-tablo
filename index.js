@@ -50,10 +50,10 @@ function addthree() {
 }
 console.log(num2)
 
-function reset(){
-    sumEL = 0
-    guest = 0
+function reset() {
+    num1 = 0
+    num2 = 0
     sumEL.textContent = num1
     guest.textContent = num2
-
 }
+console.log(sumEL)
